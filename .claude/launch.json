@@ -4,8 +4,9 @@
     {
       "name": "Montefalco Site",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["serve", ".", "--listen", "3000", "--no-clipboard"],
-      "port": 3000
+      "runtimeArgs": ["serve", "."],
+      "port": 3001,
+      "autoPort": true
     }
   ]
 }
