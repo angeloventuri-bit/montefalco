@@ -40,7 +40,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Quartzito',
     tag: 'Premium',
     origin: 'Premium',
-    image: 'https://images.unsplash.com/photo-1641584087157-cd712948ce6b?w=1200&q=80&fit=crop',
+    image: '/media/bg/marble-gold-teal.webp',
     description:
       'Quartzito de fundo claro com movimentos dourados — referência absoluta em projetos de alto padrão, da cozinha à fachada.',
     size: 'tall',
@@ -55,7 +55,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Mármore',
     tag: 'Importado',
     origin: 'Importado',
-    image: 'https://images.unsplash.com/photo-1603369425250-b276f2006ec0?w=1200&q=80&fit=crop',
+    image: '/media/bg/marble-luxury.webp',
     description:
       'Mármore italiano com veios cinza contrastantes em fundo branco puro — um clássico atemporal da arquitetura de luxo.',
     applications: ['Banheiros', 'Spas', 'Revestimentos', 'Mesas de centro'],
@@ -69,8 +69,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Granito',
     tag: 'Nacional',
     origin: 'Nacional',
-    image:
-      'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Granito%20Preto%20S%C3%A3o%20Gabriel-9wtdDfxxramMYqFpQ0HYxJMsVzt5Ci.png',
+    image: '/media/bg/marble-black.webp',
     description:
       'Granito negro com veios brancos sutis — alta resistência e elegância sóbria para projetos residenciais e corporativos.',
     applications: ['Bancadas', 'Pisos', 'Fachadas', 'Áreas externas'],
@@ -84,7 +83,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Quartzo',
     tag: 'Importado',
     origin: 'Importado',
-    image: 'https://images.unsplash.com/photo-1732979888718-47a5c6e454d9?w=1200&q=80&fit=crop',
+    image: '/media/bg/marble-multicolor.webp',
     description:
       'Quartzo importado em tons de azul profundo — superfície não porosa, ideal para bancadas de alta durabilidade.',
     applications: ['Bancadas', 'Ilhas', 'Lavabos'],
@@ -98,7 +97,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Travertino',
     tag: 'Importado',
     origin: 'Importado',
-    image: 'https://images.unsplash.com/photo-1754498084260-b87c05b8f0dd?w=1200&q=80&fit=crop',
+    image: '/media/bg/marble-golden-lines.webp',
     description:
       'Travertino importado da Itália — textura natural e tonalidade amarronzada que remete ao classicismo romano.',
     applications: ['Pisos', 'Revestimentos', 'Fachadas', 'Spas'],
@@ -112,7 +111,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Quartzo',
     tag: 'Linha Prime',
     origin: 'Linha Prime',
-    image: 'https://images.unsplash.com/photo-1566041510394-cf7c8fe21800?w=1200&q=80&fit=crop',
+    image: '/media/images/app-white-marble.webp',
     description:
       'Quartzo da Linha Prime em fundo branco puro — uniformidade cirúrgica para projetos minimalistas.',
     size: 'wide',
@@ -127,8 +126,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Quartzo',
     tag: 'Importado',
     origin: 'Importado',
-    image:
-      'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Quartzo%20Carrara-OdMXGOZ4SsL6HD25VyLHTdCe9d9tGW.png',
+    image: '/media/images/carrara-mine.webp',
     description:
       'A elegância do Carrara em uma superfície de engenharia — veios suaves, manutenção mínima.',
     applications: ['Bancadas', 'Mesas', 'Banheiros'],
@@ -142,8 +140,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Mármore',
     tag: 'Nacional',
     origin: 'Nacional',
-    image:
-      'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Marmore%20Rajado-lWx08L4KWbVAlPtvadQzVjT4qJg3OK.png',
+    image: '/media/bg/marble-multicolor.webp',
     description:
       'Mármore nacional com rajados marcantes — expressão visual única para grandes panos e revestimentos.',
     applications: ['Revestimentos', 'Pisos', 'Fachadas internas'],
@@ -157,7 +154,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Quartzito',
     tag: 'Exclusivo',
     origin: 'Exclusivo',
-    image: 'https://images.unsplash.com/photo-1532644440111-bc94f97955c1?w=1200&q=80&fit=crop',
+    image: '/media/bg/marble-green.webp',
     description:
       'Quartzito verde esmeralda — peça rara, ideal para projetos de assinatura e espaços corporativos icônicos.',
     applications: ['Lobbies', 'Bancadas de destaque', 'Paredes decorativas'],
@@ -171,8 +168,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Travertino',
     tag: 'Nacional',
     origin: 'Nacional',
-    image:
-      'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Travertino%20Nacional-cXtuCUNzQxNW8nlP3B4Qre4VboGgC8.png',
+    image: '/media/bg/marble-golden-lines.webp',
     description:
       'Travertino extraído no Brasil — beleza clássica com logística otimizada e excelente custo-benefício.',
     applications: ['Pisos', 'Paredes', 'Áreas externas'],
@@ -186,7 +182,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Linha TECH',
     tag: 'Linha TECH',
     origin: 'Linha TECH',
-    image: 'https://images.unsplash.com/photo-1464869372688-a93d806be852?w=1200&q=80&fit=crop',
+    image: '/media/bg/marble-black-gold.webp',
     description:
       'Lâmina ultracompacta preta com veios dourados — leveza, resistência e versatilidade para fachadas e interiores.',
     applications: ['Fachadas', 'Móveis', 'Bancadas', 'Revestimentos curvos'],
@@ -200,8 +196,7 @@ export const PRODUCTS: Product[] = [
     categoryLabel: 'Linha TECH',
     tag: 'Linha TECH',
     origin: 'Linha TECH',
-    image:
-      'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/L%C3%A2mina%20Imperiale%20Calacata-lDa1KE74hitxJR2a6GZslKjSbhbAOG.png',
+    image: '/media/bg/marble-luxury.webp',
     description:
       'Lâmina ultracompacta reproduzindo o famoso Calacata — fidelidade visual com desempenho técnico superior.',
     applications: ['Bancadas', 'Fachadas', 'Pisos elevados'],

@@ -8,15 +8,23 @@ export function Hero() {
       className="relative min-h-screen flex items-end overflow-hidden bg-bg"
     >
       <motion.div
-        className="absolute inset-0 bg-cover bg-center will-change-transform"
-        style={{
-          backgroundImage:
-            "url('https://images.unsplash.com/photo-1641584087157-cd712948ce6b?w=1600&q=80&fit=crop')",
-        }}
+        className="absolute inset-0 will-change-transform"
         initial={{ scale: 1.08 }}
         animate={{ scale: 1 }}
         transition={{ duration: 20, ease: 'easeOut' }}
-      />
+      >
+        <video
+          className="h-full w-full object-cover"
+          autoPlay
+          loop
+          muted
+          playsInline
+          preload="metadata"
+          poster="/media/images/quarry-block.webp"
+        >
+          <source src="/media/videos/crane-lifting.mp4" type="video/mp4" />
+        </video>
+      </motion.div>
       <div
         className="absolute inset-0"
         style={{

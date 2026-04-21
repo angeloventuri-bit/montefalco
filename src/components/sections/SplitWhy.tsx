@@ -15,8 +15,8 @@ export function SplitWhy() {
     <section className="grid lg:grid-cols-2 bg-bg-card/40 border-y border-line">
       <Reveal direction="left" className="relative overflow-hidden min-h-[320px] lg:min-h-[560px]">
         <img
-          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Quartzo%20Calacata%20Laza-ugM3cL4aOCfsVxq3qbDnOkLbdvdUcm.png"
-          alt="Calacata Laza — Quartzo importado"
+          src="/media/images/stone-samples.webp"
+          alt="Amostras de pedras naturais — Montefalco"
           loading="lazy"
           className="absolute inset-0 w-full h-full object-cover"
         />

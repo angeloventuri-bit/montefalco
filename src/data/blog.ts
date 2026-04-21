@@ -30,7 +30,7 @@ export const BLOG_POSTS: BlogPost[] = [
     summary:
       'Um guia objetivo para arquitetos e clientes finais entenderem as diferenças entre os três materiais mais usados em projetos residenciais.',
     category: 'Guias',
-    cover: 'https://images.unsplash.com/photo-1641584087157-cd712948ce6b?w=1600&q=80&fit=crop',
+    cover: '/media/images/slabs-display.webp',
     author: defaultAuthor,
     publishedAt: '2026-03-18',
     updatedAt: '2026-04-10',
@@ -81,7 +81,7 @@ export const BLOG_POSTS: BlogPost[] = [
     summary:
       'Cinco hábitos simples para preservar a beleza do mármore por décadas — e um mito que você pode esquecer.',
     category: 'Manutenção',
-    cover: 'https://images.unsplash.com/photo-1603369425250-b276f2006ec0?w=1600&q=80&fit=crop',
+    cover: '/media/images/app-bathroom.webp',
     author: defaultAuthor,
     publishedAt: '2026-02-24',
     readingMinutes: 5,
@@ -132,7 +132,7 @@ export const BLOG_POSTS: BlogPost[] = [
     summary:
       'Do verde-esmeralda à madeira petrificada: as peças que vão dominar os projetos de alto padrão no próximo ano.',
     category: 'Tendências',
-    cover: 'https://images.unsplash.com/photo-1532644440111-bc94f97955c1?w=1600&q=80&fit=crop',
+    cover: '/media/bg/marble-green.webp',
     author: defaultAuthor,
     publishedAt: '2026-04-05',
     readingMinutes: 6,

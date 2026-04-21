@@ -65,33 +65,31 @@ export const APPLICATIONS: Application[] = [
     num: '01 / 05',
     name: 'Bancadas & Cozinhas',
     desc: 'Durabilidade e elegância para o coração da casa',
-    image:
-      'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Quartzo%20Carrara-OdMXGOZ4SsL6HD25VyLHTdCe9d9tGW.png',
+    image: '/media/images/app-kitchen.webp',
   },
   {
     num: '02 / 05',
     name: 'Banheiros & Spas',
     desc: 'Mármore e travertino de alto luxo',
-    image: 'https://images.unsplash.com/photo-1603369425250-b276f2006ec0?w=1200&q=80&fit=crop',
+    image: '/media/images/app-bathroom.webp',
   },
   {
     num: '03 / 05',
     name: 'Pisos & Revestimentos',
     desc: 'Beleza que só cresce com o tempo',
-    image: 'https://images.unsplash.com/photo-1754498084260-b87c05b8f0dd?w=1200&q=80&fit=crop',
+    image: '/media/images/app-white-marble.webp',
   },
   {
     num: '04 / 05',
     name: 'Fachadas & Externos',
     desc: 'Lâminas ultracompactas e granitos',
-    image:
-      'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/L%C3%A2mina%20Branca-PI790NDaF5Z3tejgJYkNTyvbu6z3Dg.png',
+    image: '/media/images/app-penthouse.webp',
   },
   {
     num: '05 / 05',
     name: 'Espaços Corporativos',
     desc: 'Lobbies e recepções de alto padrão',
-    image: 'https://images.unsplash.com/photo-1641584087157-cd712948ce6b?w=1200&q=80&fit=crop',
+    image: '/media/images/app-hotel.webp',
   },
 ];
 

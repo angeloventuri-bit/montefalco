@@ -70,7 +70,7 @@ export default function Sobre() {
           <div className="grid lg:grid-cols-2 gap-16 items-center mb-24">
             <Reveal direction="left">
               <img
-                src="https://images.unsplash.com/photo-1603369425250-b276f2006ec0?w=1200&q=80&fit=crop"
+                src="/media/images/quarry-carrara.webp"
                 alt="Galpão Montefalco em São Paulo"
                 className="w-full aspect-[4/5] object-cover"
                 loading="lazy"

@@ -4,6 +4,7 @@ import { About } from '@/components/sections/About';
 import { Stats } from '@/components/sections/Stats';
 import { Products } from '@/components/sections/Products';
 import { SplitWhy } from '@/components/sections/SplitWhy';
+import { ImportMap } from '@/components/sections/ImportMap';
 import { Differentials } from '@/components/sections/Differentials';
 import { Applications } from '@/components/sections/Applications';
 import { FeaturedCarousel } from '@/components/sections/FeaturedCarousel';
@@ -43,6 +44,7 @@ export default function Home() {
       <Stats />
       <Products />
       <SplitWhy />
+      <ImportMap />
       <Differentials />
       <Applications />
       <FeaturedCarousel />

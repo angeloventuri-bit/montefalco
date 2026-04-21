@@ -16,14 +16,14 @@ export function About() {
         <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-center">
           <Reveal direction="left" className="relative">
             <img
-              src="https://images.unsplash.com/photo-1603369425250-b276f2006ec0?w=1200&q=80&fit=crop"
-              alt="Calacata Prime — Montefalco"
+              src="/media/images/slabs-display.webp"
+              alt="Showroom de chapas Montefalco"
               loading="lazy"
               className="w-full aspect-[4/5] object-cover"
             />
             <img
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Granito%20Preto%20S%C3%A3o%20Gabriel-9wtdDfxxramMYqFpQ0HYxJMsVzt5Ci.png"
-              alt="Granito Preto São Gabriel"
+              src="/media/images/slab-examining.webp"
+              alt="Seleção de chapa premium"
               loading="lazy"
               className="hidden sm:block absolute -bottom-10 -right-6 lg:-right-12 w-56 md:w-72 aspect-square object-cover border border-line shadow-[0_20px_60px_rgba(0,0,0,0.5)]"
             />
